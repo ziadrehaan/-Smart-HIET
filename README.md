@@ -26,9 +26,11 @@ The goal of the project is to:
 - **Programming & Logic Design**  
 - **System Integration**
 
-## 👨‍🏫 Supervision
+## 👨‍🏫 Team & Supervision
+- Developed by: [Your Name / Team Name]
 - Supervised by: [Dr.Ibrahim Zewail]
-[![Whats-App-Image-2025-08-26-at-00-14-15-94136932.jpg](https://i.postimg.cc/PJkQRtMD/Whats-App-Image-2025-08-26-at-00-14-15-94136932.jpg)](https://postimg.cc/tZ261GwR)
+
+   <img src="https://i.postimg.cc/JhZfDhtD/Whats-App-Image-2025-08-25-at-21-50-06-44859d64.jpg" width="105" /> 
 
   
 <div align="right">
