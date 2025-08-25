@@ -31,11 +31,9 @@ The goal of the project is to:
 ## 👨‍🏫 Supervision
 - Supervised by: [Dr.Ibrahim Zewail]
 
+
   
 <div align="right">
 <a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
 
 </div>
-
-
-> 📎 *This project was developed as part of an academic initiative to enhance technical solutions within educational environments.*
