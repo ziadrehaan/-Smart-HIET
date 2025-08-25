@@ -24,13 +24,11 @@ The goal of the project is to:
 - **IoT Development**  
 - **Embedded Systems**  
 - **Programming & Logic Design**  
-- **UI/UX Design**  
-- **Data Handling & Analysis**  
 - **System Integration**
 
 ## 👨‍🏫 Supervision
 - Supervised by: [Dr.Ibrahim Zewail]
-
+[![Whats-App-Image-2025-08-26-at-00-14-15-94136932.jpg](https://i.postimg.cc/PJkQRtMD/Whats-App-Image-2025-08-26-at-00-14-15-94136932.jpg)](https://postimg.cc/tZ261GwR)
 
   
 <div align="right">
