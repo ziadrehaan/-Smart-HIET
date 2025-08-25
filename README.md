@@ -27,10 +27,10 @@ The goal of the project is to:
 - **System Integration**
 
 ## 👨‍🏫 Team & Supervision
-- Developed by: [Your Name / Team Name]
+- Developed by: [[𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷](https://github.com/ziadrehaan)/ The Team]
 - Supervised by: [Dr.Ibrahim Zewail]
 
-   <img src="https://i.postimg.cc/JhZfDhtD/Whats-App-Image-2025-08-25-at-21-50-06-44859d64.jpg" width="105" /> 
+   <img src="https://i.postimg.cc/PJkQRtMD/Whats-App-Image-2025-08-26-at-00-14-15-94136932.jpg" width="105" /> 
 
   
 <div align="right">
