@@ -30,7 +30,7 @@ The goal of the project is to:
 - Developed by: [[𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷](https://github.com/ziadrehaan)/ The Team]
 - Supervised by: [Dr.Ibrahim Zewail]
 
-   <img src="https://i.postimg.cc/PJkQRtMD/Whats-App-Image-2025-08-26-at-00-14-15-94136932.jpg" width="105" />     <img src="https://i.postimg.cc/x8jv88n8/Gemini-Generated-Image-gynqkpgynqkpgynq.png" width="105" /> 
+   <img src="https://i.postimg.cc/PJkQRtMD/Whats-App-Image-2025-08-26-at-00-14-15-94136932.jpg" width="145" />     <img src="https://i.postimg.cc/x8jv88n8/Gemini-Generated-Image-gynqkpgynqkpgynq.png" width="105" /> 
 
   
 <div align="right">
